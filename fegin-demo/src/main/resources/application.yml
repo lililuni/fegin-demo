@@ -1,7 +1,7 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: 注册中心网址
+      defaultZone: 注册中心网址/eureka/
 server:
   port: 9115
 spring:
